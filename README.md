@@ -1,6 +1,25 @@
 
 <h1>TODO APP SNAPSHOTS</h1>
 
+TODO Application Developed using JSP, Servlet, JDBC and MySQL Database.
+
+## Following features
+- Add Todo
+- Edit Todo
+- List Todo
+- Delete Todo
+- Login Model
+- Registration Model
+- Responsive layout
+
+## Technology stack
+- Java 8+
+- JSP and Servlet
+- JDBC
+- MySQL database
+- Eclipse IDE
+- Tomcat server 8+
+
 1) <h3> TODO HOME
 ---
   
